@@ -1,0 +1,1 @@
+ Initialy i ve tried to write tests on Python code generated code for every test but it failed and became complicated so at the end decided to change language to TS as result i ve generated tests but 1 codegen which covered all cases and 1 session of CLaude as result majority of tests were covered and tests passed 
